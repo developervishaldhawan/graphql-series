@@ -1,2 +1,2 @@
 # graphql-series
-An React app using Graphql 
+Boilerplate to easily get started on React and GraphQL
